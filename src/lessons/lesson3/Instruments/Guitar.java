@@ -1,5 +1,4 @@
 package lessons.lesson3.Instruments;
-
 public class Guitar implements Instrument {
 
     String Title = "Guitar";
